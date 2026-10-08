@@ -1,3 +1,8 @@
+## 2026-10-08 20:20 — Claude Code
+**Fait** : Pages légales remises en « lien seul » pour le build iOS 172 (refus Apple 5.1.2(iv)) : la personne remplit elle-même le formulaire, aucune saisie ni import de tiers, l'apporteur voit nom, besoin et avancement, jamais téléphone ni email. Accueil : « réservée aux partenaires » remplacé par « inscription libre et gratuite ».
+**Touche** : confidentialite.html, conditions.html, index.html (branche locale politique-lien-seul).
+**En cours / bloque** : l'AAB Android 171 en examen accède encore au répertoire ; un AAB « lien seul » doit le remplacer sur Play.
+
 ## 2026-10-06 00:20 — Claude Code
 **Fait** : Pages légales réalignées sur l'app réelle (structure Referaly décidée par Arnaud le 05/10) : l'apporteur saisit ou importe un contact avec son accord, ou partage son lien. Le texte du 01/10 (pas d'accès au répertoire, pas de saisie de tiers) ne correspondait plus aux apps soumises chez Apple et Google.
 **Touche** : confidentialite.html, conditions.html, index.html.
